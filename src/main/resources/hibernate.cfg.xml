@@ -37,10 +37,10 @@
         </property>
 
 
-        <mapping class="xyz.neolith.wallanalysis.entity.Fwlog"/>
-        <mapping class="xyz.neolith.wallanalysis.entity.AccessFlowResult"/>
-        <mapping class="xyz.neolith.wallanalysis.entity.Event"/>
-        <mapping class="xyz.neolith.wallanalysis.entity.Sensitiveport"/>
-        <mapping class="xyz.neolith.wallanalysis.entity.StatisticsResult"/>
+        <mapping class="xyz.neolith.watcheranalysis.entity.Fwlog"/>
+        <mapping class="xyz.neolith.watcheranalysis.entity.AccessFlowResult"/>
+        <mapping class="xyz.neolith.watcheranalysis.entity.Event"/>
+        <mapping class="xyz.neolith.watcheranalysis.entity.Sensitiveport"/>
+        <mapping class="xyz.neolith.watcheranalysis.entity.StatisticsResult"/>
     </session-factory>
 </hibernate-configuration>
